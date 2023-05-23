@@ -1,0 +1,120 @@
+.App {
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+.First-Logo {
+  width: 1120px;
+  height: 22px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: 'Kanit', sans-serif;
+  margin-bottom: 88px;
+  margin-top: 24px;
+}
+
+.Second-Logo {
+  width: 1120px;
+  height: 120px;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 120px;
+  font-family: 'Kanit', sans-serif;
+}
+
+.articleContainer {
+  margin-bottom: 20px;
+}
+
+.authorsStyle {
+  width: 94px;
+  height: 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  /* flex-direction: row; */
+  /* align-items: center; */
+}
+
+.AuthorImage {
+  width: 24px;
+  height: 24px;
+}
+
+.titleStyle {
+  width: 693px;
+  height: 34px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  margin-top: 51px;
+}
+
+.descriptionStyle {
+  width: 693px;
+  height: 44px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 50px;
+}
+
+.bottomStyle {
+  width: 75px;
+  height: 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: 70px;
+}
+
+.buttonStyle {
+  border-radius: 100px;
+  width: 107px;
+  height: 30px;
+  outline: none;
+  border: none;
+}
+
+.ArticleImage { 
+  width: 265px;
+  height: 265px;
+  border-radius: 4px;
+  }
+
+.ArticleDivider {
+  margin-top: 42px;
+  width: 960px;
+  height: 1.25px;
+  background: whitesmoke;
+}
+
+.credits {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: right;
+  color: #081E34;
+  opacity: 0.5;
+  margin-right: 172px;
+}
+
+.love {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: right;
+  color: #081E34;
+  margin-top: 52px;
+  margin-bottom: 45px;
+  margin-right: 172px;
+}
+
